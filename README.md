@@ -5,7 +5,7 @@
 <img src="https://komarev.com/ghpvc/?username=UsilaDobry&style=flat-square&color=blue" alt=""/>
 </div>
 <h2 align="center">
-  Приветствую сердечно здесь
+  Приветствую Вас здесь сердечно
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h2>
 <div align="center">
