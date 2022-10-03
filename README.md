@@ -5,20 +5,20 @@
 <img src="https://komarev.com/ghpvc/?username=UsilaDobry&style=flat-square&color=blue" alt=""/>
 </div>
 <h2 align="center">
-  Приветствую Вас здесь сердечно
+  I welcome you here
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h2>
 
-## :man_technologist: Несколько фраз о себе:
-Я специалист Data Science <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> из России.
+## :man_technologist: a little about yourself:
+I am a Data Science specialist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
 - :telescope: Я работаю на фрилансе.
 
-- :seedling: Исследую и реализую ML-подходы в решении различных бизнес-задач.
+- :seedling: I research and implement ML approaches in solving various business problems.
 
-- :zap: В свободное время развиваюсь: читаю технические статьи и изучаю пратики в направлениях: Data Science, Data Engineering, Data Analysis, MLops.
+- :zap: In my free time, I develop: I read technical articles and study practices in the following areas:: Data Science, Data Engineering, Data Analysis, MLops.
 
-- :mailbox: Как со мной связаться: [![Telegram Badge](https://img.shields.io/badge/-Eduard_Bidenko-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/UsilaDobry)
-### :hammer_and_wrench: Мой стэк языков и инструментов:
+- :mailbox: How to contact me: [![Telegram Badge](https://img.shields.io/badge/-Eduard_Bidenko-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/UsilaDobry)
+### :hammer_and_wrench: My stack of languages and tools:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter" alt="Jupyter" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg" title="Markdownr" alt="Markdown" width="40" height="40"/>&nbsp;
