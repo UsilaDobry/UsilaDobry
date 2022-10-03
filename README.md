@@ -11,7 +11,7 @@
 
 ## :man_technologist: a little about yourself:
 I am a Data Science specialist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
-- :telescope: Я работаю на фрилансе.
+- :telescope: I work freelance.
 
 - :seedling: I research and implement ML approaches in solving various business problems.
 
