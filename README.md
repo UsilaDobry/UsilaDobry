@@ -17,7 +17,7 @@
 
 - :zap: В свободное время развиваюсь: читаю технические статьи и изучаю пратики в направлениях: Data Science, Data Engineering, Data Analysis, MLops.
 
-- :mailbox: Как со мной связаться: [![VK Badge](https://img.shields.io/badge/-Eduard_Bidenko-blue?style=flat&logo=VK&logoColor=white)](https://vk.com/id18197306)
+- :mailbox: Как со мной связаться: [![Telegram Badge](https://img.shields.io/badge/-Eduard_Bidenko-blue?style=flat&logo=VK&logoColor=white)](https://t.me/UsilaDobry)
 ### :hammer_and_wrench: Мой стэк языков и инструментов:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter" alt="Jupyter" width="40" height="40"/>&nbsp;
