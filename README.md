@@ -11,13 +11,13 @@
 
 ## :man_technologist: a little about yourself:
 I am a Data Science specialist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
-- :telescope: I work freelance.
+- I work freelance.
 
-- :seedling: I research and implement ML approaches in solving various business problems.
+- I research and implement ML approaches in solving various business problems.
 
-- :zap: In my free time, I develop: I read technical articles and study practices in the following areas:: Data Science, Data Engineering, Data Analysis, MLops.
+- In my free time, I develop: I read technical articles and study practices in the following areas:: Data Science, Data Engineering, Data Analysis, MLops.
 
-- :mailbox: How to contact me: [![Telegram Badge](https://img.shields.io/badge/-Eduard_Bidenko-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/UsilaDobry)
+- How to contact me: [![Telegram Badge](https://img.shields.io/badge/-Eduard_Bidenko-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/UsilaDobry)
 ### :hammer_and_wrench: Stack:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter" alt="Jupyter" width="40" height="40"/>&nbsp;
