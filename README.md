@@ -13,9 +13,9 @@
 I am a Data Science specialist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
 - I work freelance.
 
-- I research and implement ML approaches in solving various business problems.
+- I study and implement ML approaches in solving various business problems.
 
-- In my free time, I develop: I read technical articles and study practices in the following areas:: Data Science, Data Engineering, Data Analysis, MLops.
+- In my free time I read technical literature and study various practices in the following areas: Data Science, Data Engineering, Data Analysis, MLops.
 
 - Сontacts: [![Telegram Badge](https://img.shields.io/badge/-Eduard_Bidenko-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/UsilaDobry)
 ### :hammer_and_wrench: Stack:
