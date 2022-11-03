@@ -17,7 +17,7 @@ I am a Data Science specialist <img src="https://media.giphy.com/media/WUlplcMpO
 
 - In my free time, I develop: I read technical articles and study practices in the following areas:: Data Science, Data Engineering, Data Analysis, MLops.
 
-- How to contact me: [![Telegram Badge](https://img.shields.io/badge/-Eduard_Bidenko-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/UsilaDobry)
+- Сontacts: [![Telegram Badge](https://img.shields.io/badge/-Eduard_Bidenko-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/UsilaDobry)
 ### :hammer_and_wrench: Stack:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter" alt="Jupyter" width="40" height="40"/>&nbsp;
